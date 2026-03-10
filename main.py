@@ -13,7 +13,7 @@ ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7  # 7 days
 
 ALLOWED_ORIGINS = [
-    "https://myfrontend.vercel.app",
+    "https://cookie-frontend-pi.vercel.app",
     "http://localhost:5173", # For local development
 ]
 
